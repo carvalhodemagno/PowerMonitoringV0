@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+3.3 Pin=J3-1
+Removed Pin From Net: NetName=NetJ3_2 Pin=J3-2
+Removed Pin From Net: NetName=NetF1_2 Pin=J3-3
+Removed Pin From Net: NetName=NetJ3_4 Pin=J3-4
+Removed Member From Class: ClassName=PowerSupply Member=J3
+Added Component: Designator=P4(PHOENIX_1935161)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(PHOENIX_1935161)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_2 Pin=P4-1
+Added Pin To Net: NetName=NetJ3_4 Pin=P4-2
+Added Pin To Net: NetName=+3.3 Pin=P5-1
+Added Pin To Net: NetName=NetJ3_2 Pin=P5-2
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetP5_2
+Change Net Name : Old Net Name=NetJ3_4 New Net Name=NetP2_1
+Added Member To Class: ClassName=PowerSupply Member=Component P4 1935161
+Added Member To Class: ClassName=PowerSupply Member=Component P5 1935161

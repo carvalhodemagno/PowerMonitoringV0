@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=LINE Pin=P2-1
+Added Component: Designator=J3(SSR-40)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3 Pin=J3-1
+Added Pin To Net: NetName=LINE Pin=J3-3
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=P2-1
+Added Net: Name=NetJ3_4
+Added Member To Class: ClassName=PowerSupply Member=Component J3 SSR

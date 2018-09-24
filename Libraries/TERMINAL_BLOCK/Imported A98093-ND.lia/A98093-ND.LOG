@@ -1,0 +1,70 @@
+PCAD Importer Log
+Project : A98093-ND.LibPkg
+
+Section : C:\Users\Magno\Documents\Tcc\Hardware\PowerMonitoringV0\Libraries\TERMINAL_BLOCK\A98093-ND.lia
+    Section : PCB Library - A98093-ND.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CONN_282844-3 On Line 390
+            Warning - 1 : Skipping Token CONN_282844-3_2 On Line 434
+            Warning - 1 : Skipping Token CONN_282844-3_3 On Line 478
+            Warning - 1 : Skipping Token attachedSymbol On Line 526
+            Warning - 1 : Skipping Token attachedSymbol On Line 527
+            Warning - 1 : Skipping Token attachedSymbol On Line 528
+        EndSection
+
+        Section : Import Messages
+            Warning : Ellipse solder shape converted to solid region
+            Warning : Ellipse solder shape converted to solid region
+            Warning : Ellipse solder shape converted to solid region
+            Warning : Ellipse solder shape converted to solid region
+            Warning : Ellipse solder shape converted to solid region
+            Warning : Ellipse solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - A98093-ND.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 10
+            Warning - 1 : Skipping Token multiLayer On Line 302
+            Warning - 1 : Skipping Token layerContents On Line 308
+            Warning - 1 : Skipping Token layerContents On Line 311
+            Warning - 1 : Skipping Token layerContents On Line 314
+            Warning - 1 : Skipping Token layerContents On Line 317
+            Warning - 1 : Skipping Token layerContents On Line 320
+            Warning - 1 : Skipping Token layerContents On Line 323
+            Warning - 1 : Skipping Token layerContents On Line 326
+            Warning - 1 : Skipping Token layerContents On Line 329
+            Warning - 1 : Skipping Token layerContents On Line 332
+            Warning - 1 : Skipping Token layerContents On Line 335
+            Warning - 1 : Skipping Token layerContents On Line 338
+            Warning - 1 : Skipping Token layerContents On Line 341
+            Warning - 1 : Skipping Token layerContents On Line 344
+            Warning - 1 : Skipping Token layerContents On Line 347
+            Warning - 1 : Skipping Token layerContents On Line 350
+            Warning - 1 : Skipping Token layerContents On Line 353
+            Warning - 1 : Skipping Token layerContents On Line 356
+            Warning - 1 : Skipping Token layerContents On Line 359
+            Warning - 1 : Skipping Token layerContents On Line 362
+            Warning - 1 : Skipping Token layerContents On Line 365
+            Warning - 1 : Skipping Token layerContents On Line 368
+            Warning - 1 : Skipping Token layerContents On Line 371
+            Warning - 1 : Skipping Token layerContents On Line 374
+            Warning - 1 : Skipping Token layerContents On Line 377
+            Warning - 1 : Skipping Token layerContents On Line 380
+            Warning - 1 : Skipping Token layerContents On Line 383
+            Warning - 1 : Skipping Token layerContents On Line 386
+            Warning - 1 : Skipping Token defaultPinDes On Line 398
+            Warning - 1 : Skipping Token defaultPinDes On Line 406
+            Warning - 1 : Skipping Token defaultPinDes On Line 414
+            Warning - 1 : Skipping Token defaultPinDes On Line 442
+            Warning - 1 : Skipping Token defaultPinDes On Line 450
+            Warning - 1 : Skipping Token defaultPinDes On Line 458
+            Warning - 1 : Skipping Token defaultPinDes On Line 486
+            Warning - 1 : Skipping Token defaultPinDes On Line 494
+            Warning - 1 : Skipping Token defaultPinDes On Line 502
+        EndSection
+
+        Section : Generating SCH Library - A98093-ND.SchLib
+        EndSection
+    EndSection
+EndSection

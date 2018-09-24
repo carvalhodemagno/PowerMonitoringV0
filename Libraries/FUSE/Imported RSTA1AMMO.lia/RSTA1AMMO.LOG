@@ -1,0 +1,52 @@
+PCAD Importer Log
+Project : RSTA1AMMO.LibPkg
+
+Section : C:\Users\Magno\Documents\Tcc\Hardware\PowerMonitoringV0\Libraries\FUSE\RSTA1AMMO.lia
+    Section : PCB Library - RSTA1AMMO.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token FUSE On Line 378
+            Warning - 1 : Skipping Token FUSEV On Line 402
+            Warning - 1 : Skipping Token attachedSymbol On Line 438
+            Warning - 1 : Skipping Token attachedSymbol On Line 439
+        EndSection
+
+        Section : Import Messages
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Ellipse solder shape converted to solid region
+            Warning : Ellipse solder shape converted to solid region
+            Warning : Ellipse solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - RSTA1AMMO.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 10
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token multiLayer On Line 327
+            Warning - 1 : Skipping Token layerContents On Line 332
+            Warning - 1 : Skipping Token layerContents On Line 335
+            Warning - 1 : Skipping Token layerContents On Line 338
+            Warning - 1 : Skipping Token layerContents On Line 341
+            Warning - 1 : Skipping Token layerContents On Line 344
+            Warning - 1 : Skipping Token layerContents On Line 347
+            Warning - 1 : Skipping Token layerContents On Line 350
+            Warning - 1 : Skipping Token layerContents On Line 353
+            Warning - 1 : Skipping Token layerContents On Line 356
+            Warning - 1 : Skipping Token layerContents On Line 359
+            Warning - 1 : Skipping Token layerContents On Line 362
+            Warning - 1 : Skipping Token layerContents On Line 365
+            Warning - 1 : Skipping Token layerContents On Line 368
+            Warning - 1 : Skipping Token layerContents On Line 371
+            Warning - 1 : Skipping Token layerContents On Line 374
+            Warning - 1 : Skipping Token defaultPinDes On Line 386
+            Warning - 1 : Skipping Token defaultPinDes On Line 394
+            Warning - 1 : Skipping Token defaultPinDes On Line 410
+            Warning - 1 : Skipping Token defaultPinDes On Line 418
+        EndSection
+
+        Section : Generating SCH Library - RSTA1AMMO.SchLib
+        EndSection
+    EndSection
+EndSection

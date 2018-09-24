@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : FSM8JH.LibPkg
+
+Section : C:\Users\Magno\Documents\Tcc\Hardware\PowerMonitoringV0\Libraries\BUTTON\FSM8JH.lia
+    Section : PCB Library - FSM8JH.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token FSM8JH On Line 128
+            Warning - 1 : Skipping Token attachedSymbol On Line 210
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - FSM8JH.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 112
+            Warning - 1 : Skipping Token layerContents On Line 120
+        EndSection
+
+        Section : Generating SCH Library - FSM8JH.SchLib
+        EndSection
+    EndSection
+EndSection

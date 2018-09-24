@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : MCP9700T-E_TT.LibPkg
+
+Section : C:\Users\Magno\Documents\Tcc\Hardware\PowerMonitoringV0\Libraries\MCP9700\MCP9700T-E_TT.lia
+    Section : PCB Library - MCP9700T-E_TT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MCP9700T-E/TT On Line 108
+            Warning - 1 : Skipping Token attachedSymbol On Line 165
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MCP9700T-E_TT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 89
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+        EndSection
+
+        Section : Generating SCH Library - MCP9700T-E_TT.SchLib
+        EndSection
+    EndSection
+EndSection

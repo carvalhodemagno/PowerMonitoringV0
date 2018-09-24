@@ -1,0 +1,26 @@
+PCAD Importer Log
+Project : RES2512.LibPkg
+
+Section : C:\Users\JadirJr\Documents\Magno\Hardware\PowerMonitoringV0\Libraries\RES2512\RES2512.lia
+    Section : PCB Library - RES2512.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token RESH On Line 108
+            Warning - 1 : Skipping Token attachedSymbol On Line 158
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - RES2512.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 92
+        EndSection
+
+        Section : Generating SCH Library - RES2512.SchLib
+        EndSection
+    EndSection
+EndSection

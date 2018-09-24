@@ -1,0 +1,48 @@
+PCAD Importer Log
+Project : VARISTOR.LibPkg
+
+Section : C:\Users\Magno\Documents\Tcc\Hardware\PowerMonitoringV0\Libraries\VARISTOR\VARISTOR.lia
+    Section : PCB Library - VARISTOR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token VRES On Line 377
+            Warning - 1 : Skipping Token VRESV On Line 410
+            Warning - 1 : Skipping Token attachedSymbol On Line 457
+            Warning - 1 : Skipping Token attachedSymbol On Line 458
+        EndSection
+
+        Section : Import Messages
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Ellipse solder shape converted to solid region
+            Warning : Ellipse solder shape converted to solid region
+            Warning : Ellipse solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - VARISTOR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 10
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token multiLayer On Line 338
+            Warning - 1 : Skipping Token layerContents On Line 343
+            Warning - 1 : Skipping Token layerContents On Line 346
+            Warning - 1 : Skipping Token layerContents On Line 349
+            Warning - 1 : Skipping Token layerContents On Line 352
+            Warning - 1 : Skipping Token layerContents On Line 355
+            Warning - 1 : Skipping Token layerContents On Line 358
+            Warning - 1 : Skipping Token layerContents On Line 361
+            Warning - 1 : Skipping Token layerContents On Line 364
+            Warning - 1 : Skipping Token layerContents On Line 367
+            Warning - 1 : Skipping Token layerContents On Line 370
+            Warning - 1 : Skipping Token layerContents On Line 373
+            Warning - 1 : Skipping Token defaultPinDes On Line 385
+            Warning - 1 : Skipping Token defaultPinDes On Line 393
+            Warning - 1 : Skipping Token defaultPinDes On Line 418
+            Warning - 1 : Skipping Token defaultPinDes On Line 426
+        EndSection
+
+        Section : Generating SCH Library - VARISTOR.SchLib
+        EndSection
+    EndSection
+EndSection

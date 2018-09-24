@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : TERMINAL_BLOCK_2POS.LibPkg
+
+Section : C:\Users\JadirJr\Documents\Magno\Hardware\PowerMonitoringV0\Libraries\TERMINAL_BLOCK_2POS\TERMINAL_BLOCK_2POS.lia
+    Section : PCB Library - TERMINAL_BLOCK_2POS.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 119
+            Warning - 1 : Skipping Token isVisible On Line 120
+            Warning - 1 : Skipping Token 1935161 On Line 124
+            Warning - 1 : Skipping Token attachedSymbol On Line 171
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TERMINAL_BLOCK_2POS.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 113
+        EndSection
+
+        Section : Generating SCH Library - TERMINAL_BLOCK_2POS.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : LM1117MP-3.3.LibPkg
+
+Section : C:\Users\Magno\Documents\Tcc\Hardware\PowerMonitoringV0\Libraries\LM1117MP-3.3\LM1117MP-3.3.lia
+    Section : PCB Library - LM1117MP-3.3.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LM1117MP-3.3 On Line 134
+            Warning - 1 : Skipping Token attachedSymbol On Line 201
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LM1117MP-3.3.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - LM1117MP-3.3.SchLib
+        EndSection
+    EndSection
+EndSection
