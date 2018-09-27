@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : PC817X2NIP0F.LibPkg
+
+Section : C:\Users\magno.carvalho\Desktop\tcc_magno\PowerMonitoringV0\Libraries\PC817\PC817X2NIP0F.lia
+    Section : PCB Library - PC817X2NIP0F.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token PC817X2NIP0F On Line 117
+            Warning - 1 : Skipping Token attachedSymbol On Line 220
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - PC817X2NIP0F.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 109
+        EndSection
+
+        Section : Generating SCH Library - PC817X2NIP0F.SchLib
+        EndSection
+    EndSection
+EndSection
