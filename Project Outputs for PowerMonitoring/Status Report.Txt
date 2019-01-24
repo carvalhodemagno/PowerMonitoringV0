@@ -1,13 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [PowerMonitoring.PrjPcb]
-   Generated File[PowerMonitoring-RoundHoles.TXT]
-   Generated File[PowerMonitoring-SlotHoles.TXT]
-   Generated File[PowerMonitoring.LDP]
-   Generated File[PowerMonitoring.DRR]
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [PowerMonitoring.PcbDoc]
+   Generated File[Fabrication Testpoint Report for PowerMonitoring.ipc]
 
 
-Files Generated   : 4
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 19:02:04 On 16/10/2018
+Finished Output Generation At 9:21:22 PM On 1/9/2019
