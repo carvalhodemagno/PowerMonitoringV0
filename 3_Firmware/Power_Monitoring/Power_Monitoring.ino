@@ -5,26 +5,23 @@
 
 int led = 13;
 
-UpbeatLabs_MCP39F521 wattson = UpbeatLabs_MCP39F521();
+UpbeatLabs_MCP39F521 MCP39F521 = UpbeatLabs_MCP39F521();
 
 void setup() {
   pinMode(led, OUTPUT);
-  attachInterrupt(0, zcd, CHANGE);
   Serial.begin(9600);
-  Serial.println("Upbeat Labs Dr. Wattson Energy Data Example Sketch");
-  Serial.println("**************************************************");
-  wattson.begin();
+  MCP39F521.begin();
 }
 
 void loop() {
   UpbeatLabs_MCP39F521_Data data;
   UpbeatLabs_MCP39F521_FormattedData fData;
 
-  int readMCPretval = wattson.read(&data, NULL);
+  int readMCPretval = MCP39F521.read(&data, NULL);
   if (readMCPretval == UpbeatLabs_MCP39F521::SUCCESS) {
     // Print stuff out
     Serial.write("\x1B" "c"); // Clear the screen on a regular terminal
-    wattson.convertRawData(&data, &fData);
+    MCP39F521.convertRawData(&data, &fData);
     printMCP39F521Data(&fData);
   } else {
     Serial.print("Error returned! "); Serial.println(readMCPretval);
